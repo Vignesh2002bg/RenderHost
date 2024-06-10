@@ -1,7 +1,5 @@
 package com.example.demo.dto;
 
-import com.example.demo.Entity.Property;
-import com.example.demo.Entity.User;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

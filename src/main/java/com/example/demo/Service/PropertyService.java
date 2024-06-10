@@ -8,12 +8,11 @@ import org.springframework.stereotype.Service;
 
 import com.example.demo.Entity.Property;
 import com.example.demo.Entity.User;
-import com.example.demo.Entity.likes;
+
 import com.example.demo.Repository.LikeRepository;
 import com.example.demo.Repository.PropertyRepository;
 import com.example.demo.Repository.UserRepository;
 
-import jakarta.transaction.Transactional;
 
 @Service
 public class PropertyService {
